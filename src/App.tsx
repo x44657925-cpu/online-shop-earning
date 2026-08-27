@@ -125,6 +125,4 @@ export function App() {
       <MainContent />
     </AppProvider>
   );
-}
-
-export default App;
+              }
