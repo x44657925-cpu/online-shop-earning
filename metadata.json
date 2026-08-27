@@ -1,0 +1,6 @@
+{
+  "name": "Onlineshopearning",
+  "description": "Onlineshopearning - E-Commerce Task Earning Platform with Profile Customization, Daily Product Commissions, bKash/Nagad/Rocket Payments, and Live Admin Control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
